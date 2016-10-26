@@ -72,3 +72,6 @@ $grid2->set_fields($data_fields);
 
 This project is licensed under the MIT License.
 This means you can use and modify it for free in private or commercial projects.
+
+www.farbod-salimi.com
+info@farbod-salimi.com
